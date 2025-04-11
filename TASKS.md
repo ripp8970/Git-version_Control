@@ -176,4 +176,10 @@
     git tag v1.0
     git push origin v1.0
     ```
-
+### Task 7: Adding tasks file(TASKS.md)
+* Staged, committed, and pushed the file by running the following commands.
+  ```bash
+  git add TASKS.md
+  git commit -m "Document all tasks in TASKS.md"
+  git push origin main
+  ```
